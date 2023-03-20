@@ -2,7 +2,8 @@ bag = {
     "Pan": 200,
     "Agua": 100,
     "Salchichon": 100,
-    "Queso": 100
+    "Queso": 100,
+    "Sobrasada": 150,
 }
 
 def travel_in_time(hours):
